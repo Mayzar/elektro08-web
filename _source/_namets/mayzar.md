@@ -1,5 +1,5 @@
 ---
 nick: mayzarannas
 name: Mayzar Annas
-photo: https://scontent-sin6-2.cdninstagram.com/t51.2885-19/s320x320/12568805_479043635619156_1879028983_a.jpg
+photo: https://instagram.fsub2-1.fna.fbcdn.net/vp/150783b460398a54f67d430c52e5a55b/5B4FF70E/t51.2885-19/s150x150/21041578_1450522575026484_1794894496882753536_a.jpg
 ---
